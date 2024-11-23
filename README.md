@@ -19,10 +19,10 @@ Com funcionalidades interativas e uma interface amigável, o bot é ideal para s
 - Envia uma música aleatória de playlists fixas no YouTube;
 - Repertório inclui artistas como Joshua Aaron, Grupo Elo e outros.
 
-  **🗂️ Pesquisa por Palavra**
-  - Encontre versículos que contêm palavras-chave específicas;
-  - Reconhece letras minúsculas e sem acento ortográfico;
-  - Limita os resultados para não sobrecarregar o chat.
+**🗂️ Pesquisa por Palavra**
+- Encontre versículos que contêm palavras-chave específicas;
+- Reconhece letras minúsculas e sem acento ortográfico;
+- Limita os resultados para não sobrecarregar o chat.
  
   **🎉 Mensagens de Boas-vindas**
   Envia uma mensagem personalizada com as regras e comandos do servidor quando novos membros entram.
