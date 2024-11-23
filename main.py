@@ -1,6 +1,6 @@
 import discord
 from discord.ext import commands
-from keys import *
+import os
 import requests
 from unidecode import unidecode
 import random
